@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**Vearzom/Vearzom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante à l’ENSEA, je suis passionnée par l'électronique RF, l'électronique embarquée, la conception d'antennes, le traitement du signal et les technologies radar.
 
-Here are some ideas to get you started:
+Actuellement, je travaille sur un simulateur simple de radar pulsé, dans le but de mieux comprendre les principes fondamentaux du radar et leur mise en œuvre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je découvre également Ansys HFSS, un outil que j'apprends à maîtriser pour la modélisation et la simulation électromagnétique d’antennes et de structures RF.
+
+## Hello 👋
+
+As a student at ENSEA, I am passionate about: RF electronics, embedded systems, antenna design, signal processing and radar technologies.
+
+I am currently working on a simple pulsed radar simulator to better understand the fundamental principles of radar systems and how they are implemented.
+
+I am also getting started with Ansys HFSS, which I am learning to use for the electromagnetic modeling and simulation of antennas and RF structures.
